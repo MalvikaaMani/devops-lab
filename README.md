@@ -1,1 +1,1 @@
-# devops-lab
+This repository was made in the introductory class of the course "devops lab" of the 6th semester of Information science and engineering department of ramaiah Institute of technology. This repository was made to understand the basic commands of git and to demonstrate that how these commands work in local machine also. 
